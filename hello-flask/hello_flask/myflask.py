@@ -31,4 +31,4 @@ def form():
 def gateaux():
 	return render_template('gateaux.html')
 
-app.run(debug=True)
+app.run(debug=True, host='0.0.0.0')
