@@ -111,7 +111,7 @@ testing = ["func-timeout", "jaraco.itertools", "pytest (>=6)", "pytest-black (>=
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "24b8def6c7986d44d60683c827e1f338dda86457a9da4570a41adbdf7da1f517"
+content-hash = "6f0c07dcdbb46bbf37bd5979fc1b2f47eac07c8fd91cee980f83505d47e8af30"
 
 [metadata.files]
 click = [
